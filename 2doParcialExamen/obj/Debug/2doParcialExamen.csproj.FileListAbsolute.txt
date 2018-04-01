@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\bin\Debug\2doParcialExamen.exe.config
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\obj\Debug\2doParcialExamen.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\bin\Debug\2doParcialExamen.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\bin\Debug\2doParcialExamen.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\obj\Debug\2doParcialExamen.exe
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\obj\Debug\2doParcialExamen.pdb
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\obj\Debug\_2doParcialExamen.ListViewxD.resources
+C:\Users\Lenovo\Documents\EMI\POO\2do Parcial\2doParcialExamen\2doParcialExamen\obj\Debug\2doParcialExamen.csproj.GenerateResource.Cache

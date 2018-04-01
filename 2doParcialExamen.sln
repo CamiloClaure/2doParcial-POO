@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2doParcialExamen", "2doParcialExamen\2doParcialExamen.csproj", "{70769819-5633-4B76-9FBB-E20FC435C089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticoVectores", "..\Otro mas\PracticoVectores\PracticoVectores.csproj", "{28E32D16-5D20-48A0-9B98-91D6DCDC3147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicoCadenas", "..\..\..\..\..\Desktop\POO\practicoCadenas\practicoCadenas.csproj", "{0F825D1A-3962-45FC-9136-ED6279102194}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practicoMatrices", "..\..\..\..\..\Desktop\POO\practicoMatrices\practicoMatrices.csproj", "{4C4A2D85-A5E2-4E8B-8BAA-9B0F0B694C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrices", "..\Otro mas\matrices\matrices.csproj", "{AD013EE5-3C8A-4D84-9695-B7EA9D622525}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70769819-5633-4B76-9FBB-E20FC435C089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70769819-5633-4B76-9FBB-E20FC435C089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70769819-5633-4B76-9FBB-E20FC435C089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70769819-5633-4B76-9FBB-E20FC435C089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28E32D16-5D20-48A0-9B98-91D6DCDC3147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28E32D16-5D20-48A0-9B98-91D6DCDC3147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28E32D16-5D20-48A0-9B98-91D6DCDC3147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28E32D16-5D20-48A0-9B98-91D6DCDC3147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F825D1A-3962-45FC-9136-ED6279102194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F825D1A-3962-45FC-9136-ED6279102194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F825D1A-3962-45FC-9136-ED6279102194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F825D1A-3962-45FC-9136-ED6279102194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C4A2D85-A5E2-4E8B-8BAA-9B0F0B694C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C4A2D85-A5E2-4E8B-8BAA-9B0F0B694C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C4A2D85-A5E2-4E8B-8BAA-9B0F0B694C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C4A2D85-A5E2-4E8B-8BAA-9B0F0B694C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD013EE5-3C8A-4D84-9695-B7EA9D622525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD013EE5-3C8A-4D84-9695-B7EA9D622525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD013EE5-3C8A-4D84-9695-B7EA9D622525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD013EE5-3C8A-4D84-9695-B7EA9D622525}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
